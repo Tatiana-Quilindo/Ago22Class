@@ -11,7 +11,7 @@ namespace Ago22Class
         public static void Ejercicio1()
         {
             Random random = new Random();
-            int numeroAleatorio = random.Next(201); // Genera un número entre 0 y 200
+            int numeroAleatorio = random.Next(201);
             Console.WriteLine("Número aleatorio: " + numeroAleatorio);
 
             double aumento = numeroAleatorio * 1.3;
