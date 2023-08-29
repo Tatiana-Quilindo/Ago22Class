@@ -1,0 +1,14 @@
+C:\Users\tatia\OneDrive\Documentos\GitHub\Ago22Class\Ago22Class\bin\Debug\net6.0\Ago22Class.exe
+C:\Users\tatia\OneDrive\Documentos\GitHub\Ago22Class\Ago22Class\bin\Debug\net6.0\Ago22Class.deps.json
+C:\Users\tatia\OneDrive\Documentos\GitHub\Ago22Class\Ago22Class\bin\Debug\net6.0\Ago22Class.runtimeconfig.json
+C:\Users\tatia\OneDrive\Documentos\GitHub\Ago22Class\Ago22Class\bin\Debug\net6.0\Ago22Class.dll
+C:\Users\tatia\OneDrive\Documentos\GitHub\Ago22Class\Ago22Class\bin\Debug\net6.0\Ago22Class.pdb
+C:\Users\tatia\OneDrive\Documentos\GitHub\Ago22Class\Ago22Class\obj\Debug\net6.0\Ago22Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatia\OneDrive\Documentos\GitHub\Ago22Class\Ago22Class\obj\Debug\net6.0\Ago22Class.AssemblyInfoInputs.cache
+C:\Users\tatia\OneDrive\Documentos\GitHub\Ago22Class\Ago22Class\obj\Debug\net6.0\Ago22Class.AssemblyInfo.cs
+C:\Users\tatia\OneDrive\Documentos\GitHub\Ago22Class\Ago22Class\obj\Debug\net6.0\Ago22Class.csproj.CoreCompileInputs.cache
+C:\Users\tatia\OneDrive\Documentos\GitHub\Ago22Class\Ago22Class\obj\Debug\net6.0\Ago22Class.dll
+C:\Users\tatia\OneDrive\Documentos\GitHub\Ago22Class\Ago22Class\obj\Debug\net6.0\refint\Ago22Class.dll
+C:\Users\tatia\OneDrive\Documentos\GitHub\Ago22Class\Ago22Class\obj\Debug\net6.0\Ago22Class.pdb
+C:\Users\tatia\OneDrive\Documentos\GitHub\Ago22Class\Ago22Class\obj\Debug\net6.0\Ago22Class.genruntimeconfig.cache
+C:\Users\tatia\OneDrive\Documentos\GitHub\Ago22Class\Ago22Class\obj\Debug\net6.0\ref\Ago22Class.dll

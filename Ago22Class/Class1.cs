@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace Ago22Class
 {
-    internal class Class1
+    public class Class1
     {
+        public static void Ejercicio1()
+        {
+            Random random = new Random();
+            int numeroAleatorio = random.Next(201); // Genera un número entre 0 y 200
+            Console.WriteLine("Número aleatorio: " + numeroAleatorio);
+
+            double aumento = numeroAleatorio * 1.3;
+            Console.WriteLine("Número aumentado en un 30%: " + aumento);
+        }
     }
 }
